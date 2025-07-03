@@ -22,7 +22,7 @@ Mahdi Hteit 7/2/2025
 
 ## Code Snippet
 
-    '''while playagain == "y"
+```while playagain == "y"
     
     mode = input("Choose a mode: Easy, Medium, Hard, or Expert: \n").lower()
 
